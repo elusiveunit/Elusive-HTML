@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<input type="email">$0]]></content>
+	<tabTrigger>iemail</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<input type="radio">$0]]></content>
+	<tabTrigger>iradio</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<input type="number">$0]]></content>
+	<tabTrigger>inum</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
