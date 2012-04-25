@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<input type="url">$0]]></content>
+	<tabTrigger>iurl</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
