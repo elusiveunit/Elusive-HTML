@@ -164,5 +164,5 @@ class TagCompletions(sublime_plugin.EventListener):
             ("header\tTag", "header>$0</header>"),
             ("nav\tTag", "nav>$0</nav>"),
             ("section\tTag", "section>$0</section>"),
-            ("video\tTag", "video>$0</video>)}
+            ("video\tTag", "video>$0</video>")
         ], sublime.INHIBIT_WORD_COMPLETIONS | sublime.INHIBIT_EXPLICIT_COMPLETIONS)

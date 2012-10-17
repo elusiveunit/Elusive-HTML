@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[<input type="date">$0]]></content>
-	<tabTrigger>idate</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

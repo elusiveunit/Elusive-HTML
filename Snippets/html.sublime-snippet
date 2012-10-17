@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<!--[if IE 7 ]>    <html lang="sv" dir="ltr" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="sv" dir="ltr" class="no-js ie8 oldie"> <![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--> <html lang="sv" dir="ltr" class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>$1</title>${2:
+	<link rel="stylesheet" href="$3">}${4:
+	<script src="$5">}
+</head>
+<body>
+	$0
+</body>
+</html>]]></content>
+	<tabTrigger>html</tabTrigger>
+	<scope>text</scope>
+</snippet>

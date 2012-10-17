@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[<input type="submit">$0]]></content>
-	<tabTrigger>isub</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[<input type="search">$0]]></content>
-	<tabTrigger>isearch</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

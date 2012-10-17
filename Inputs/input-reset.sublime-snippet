@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[<input type="reset">$0]]></content>
-	<tabTrigger>ireset</tabTrigger>
-	<scope>text.html</scope>
-</snippet>
